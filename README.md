@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Pendharkar</h1>
-<h3 align="center">A Enthusiastic frontend developer from India</h3>
+<h3 align="center">A Enthusiastic frontend developer </h3>
 <img align="right" alt="coding" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSc2NGMvZaz1_v-XsMXcPMx6K2ULxbTkhMg&s">
 - 🔭 I’m currently working on **Databases such as SQL,Frontend**
 
